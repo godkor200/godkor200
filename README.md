@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BYEONGGUK%20YU&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?godkor200=anuraghazra&show_icons=true&theme=radical)                 
 
 <h2 align="center">✨Tech Stack✨</h2>
 <h3 align="center">🤔Language🤔</h3>
