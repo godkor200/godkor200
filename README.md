@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Koa-FD5750?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 </p>
   
   
