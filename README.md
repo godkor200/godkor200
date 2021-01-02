@@ -44,7 +44,7 @@
 <h2 align="center">✨Commit Count✨</h2>
 
 ![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
-
+<h2 align="center">✨Top Langs✨</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkor200&layout=compact)
 
 
