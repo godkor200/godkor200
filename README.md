@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BYEONGGUK%20YU&fontSize=90)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?godkor200=anuraghazra&show_icons=true&theme=radical)                 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+                
 
 <h2 align="center">✨Tech Stack✨</h2>
 <h3 align="center">🤔Language🤔</h3>
