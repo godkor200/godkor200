@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">Tech Stack</h3>
+
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 <!--
 **godkor200/godkor200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
