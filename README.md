@@ -45,6 +45,8 @@
 
 ![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkor200)](https://github.com/godkor200/github-readme-stats)
+
 <!--
 **godkor200/godkor200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
