@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-47A248?style=flat-square&logoColor=white" />
 </p>
+ <hr/>
 <h3 align="center">🃏ETC🃏</h3> 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
