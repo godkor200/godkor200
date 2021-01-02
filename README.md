@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-47A248?style=flat-square&logoColor=white" />
 </p>
   
   
