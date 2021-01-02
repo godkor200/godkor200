@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BYEONGGUK%20YU&fontSize=90)
 
-![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
-                
-
 <h2 align="center">✨Tech Stack✨</h2>
 <h3 align="center">🤔Language🤔</h3>
 <p align="center">
@@ -44,6 +41,9 @@
   <img src="https://img.shields.io/badge/S3-47A248?style=flat-square&logoColor=white" />
   </p>
   
+<h2 align="center">✨Commit Count✨</h2>
+![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
+
 <!--
 **godkor200/godkor200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
