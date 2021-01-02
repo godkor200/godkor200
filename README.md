@@ -10,14 +10,23 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 </p>
   <hr/>
-  <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+<h3 align="center">🛠FrameWork🛠</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Koa-FD5750?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+ </p>
+ <hr/>
+<h3 align="center">📦DB & Cloud Service📦</h3> 
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-47A248?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
   
   
