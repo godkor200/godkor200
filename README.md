@@ -4,7 +4,7 @@
 <h3 align="center">✨Tech Stack✨</h3>
 
 <p align="center"> 
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)</p>
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) </p>
 <!--
 **godkor200/godkor200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
