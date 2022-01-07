@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Koa-FD5750?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
  </p>
@@ -40,6 +39,7 @@
   <img src="https://img.shields.io/badge/EC2-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/RDS-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-47A248?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/swagger-FD5750?style=flat-square&logoColor=white" />
   </p>
   
 <h2 align="center">✨Commit Count✨</h2>
