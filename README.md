@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/EC2-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/RDS-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-47A248?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger.svg-FD5750?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-FD5750.svg?style=flat-square&logoColor=white" />
   </p>
   
 <h2 align="center">✨Commit Count✨</h2>
