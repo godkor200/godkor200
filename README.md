@@ -3,6 +3,7 @@
 <h2 align="center">✨Tech Stack✨</h2>
 <h3 align="center">🤔Language🤔</h3>
 <p align="center">
+  <img src="https://img.shields.io/github/languages/count/beygee/survive" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -47,7 +48,6 @@
 ![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
 
 <h2 align="center">✨Top Langs✨</h2>
-<p><img src="https://img.shields.io/github/languages/count/beygee/survive" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkor200&layout=compact)
 
 <!--
