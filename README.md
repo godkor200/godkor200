@@ -47,7 +47,7 @@
 ![BYEONGGUK's github stats](https://github-readme-stats.vercel.app/api?username=godkor200&show_icons=true)
 
 <h2 align="center">✨Top Langs✨</h2>
-![Top Langs](https://img.shields.io/github/languages/count/beygee/survive)
+<p><img src="https://img.shields.io/github/languages/count/beygee/survive" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkor200&layout=compact)
 
 <!--
