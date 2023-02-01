@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-339933?style=flat-square&logo=Nest.js&logoColor=red" />
+  <img src="https://img.shields.io/badge/Nest.js-FD5750?style=flat-square&logo=Nest.js&logoColor=red" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
  </p>
  <hr/>
