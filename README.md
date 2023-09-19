@@ -3,9 +3,8 @@
 <h2 align="center">✨Tech Stack✨</h2>
 <h3 align="center">🤔Language🤔</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E34F26?&style=flat-squar&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-E34F26?&style=flat-squar&logo=Python&logoColor=white"/>
 </p>
   <hr/>
 <h3 align="center">🛠FrameWork🛠</h3>
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Nest.js-FD5750?style=flat-square&logo=Nest.js&logoColor=red" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-61DAFB?style=flat-square&logo=Django&logoColor=white" />
  </p>
  <hr/>
 <h3 align="center">📦DB & Cloud Service📦</h3> 
