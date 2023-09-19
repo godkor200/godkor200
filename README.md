@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-FD5750?style=flat-square&logo=Nest.js&logoColor=red" />
+  <img src="https://img.shields.io/badge/Express-FD5750?style=flat-square&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-FD5750?style=flat-square&logo=Nestjs&logoColor=red" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-61DAFB?style=flat-square&logo=Django&logoColor=white" />
  </p>
@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-47A248?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-47A248?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/opensearch-47A248?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-47A248?style=flat-square&logo=Lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Opensearch-47A248?style=flat-square&logo=Opensearch&logoColor=white" />
 </p>
  <hr/>
 <h3 align="center">🃏ETC🃏</h3> 
